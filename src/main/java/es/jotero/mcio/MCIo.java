@@ -40,7 +40,7 @@ public class MCIo extends JavaPlugin {
                 
             } catch (IOException exception) {
                 exception.printStackTrace();
-            }//hello
+            }
         }
         
         //Load arenas.yml
